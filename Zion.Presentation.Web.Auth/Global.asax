@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="Zion_Presentation_Web_Auth.MvcApplication" Language="C#" %>
